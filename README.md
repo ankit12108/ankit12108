@@ -14,10 +14,13 @@
 ---
 
 ### 🔥 Top Projects
-| Project | Description |
-|--------|-------------|
-| 🎟 Event Ticket Platform | QR-based ticket booking platform with Keycloak auth, user/event manager/staff journeys |
-| 🔐 Auth Service | Centralized auth service supporting multi-tenant JWT handling |
+
+| Project | Status | Description |
+|--------|--------|-------------|
+| 🎟 **Event Ticket Platform** | 🟢 In Progress | QR-based event ticket booking with Keycloak authentication and staff ticket verification |
+| 🔐 **Auth Service** | ⏳ Coming Soon | Centralized authentication system with JWT & role-based authorization using Spring Security |
+| 📦 **Inventory Management System** | ⏳ Coming Soon | Stock & order management API focusing on transactions, product availability & secure access |
+
 
 ---
 
