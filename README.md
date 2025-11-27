@@ -20,7 +20,7 @@
 | 🎟 **Event Ticket Platform** | 🟢 In Progress | QR-based event ticket booking with Keycloak authentication and staff ticket verification |
 | 🔐 **Auth Service** | ⏳ Coming Soon | Centralized authentication system with JWT & role-based authorization using Spring Security |
 | 📦 **Inventory Management System** | ⏳ Coming Soon | Stock & order management API focusing on transactions, product availability & secure access |
-
+| 🗄 SQL Mastery Project | 🟢 In Progress | Building a production-style database system with ERD design, normalization, sample dataset & performance-optimized SQL queries |
 
 ---
 
